@@ -9,15 +9,15 @@
   #   state: started
   
   tasks:
+  
     # - name: Install cockpit package 
     
-  
     # - name: Copy cockpit.conf to /etc/cockpit/cockpit.conf
 
     # - name: Start and enable cockpit service
 
     # - name: Wait 15 seconds port 9090
-      
-   
+
+
 
    
